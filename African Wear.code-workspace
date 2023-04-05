@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "../../Desktop/HTML/HTML tutorial"
+    },
+    {
+      "path": "../../Desktop/js-basic"
+    },
+    {
+      "path": "../../Desktop/vs Assignment"
+    },
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "my website"
+  }
+}
